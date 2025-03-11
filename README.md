@@ -1,4 +1,4 @@
- lost-temple-analyzer
+# lost-temple-analyzer
 
 To run the site locally at <https://localhost:3000>, run the following in the root directory:
 
